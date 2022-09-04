@@ -1,274 +1,104 @@
 {
-    "sections": {
-      "main": {
-        "type": "main-page",
-        "disabled": true,
-        "settings": {
-          "padding_top": 28,
-          "padding_bottom": 28
-        }
-      },
-      "16623185554bb1d9bd": {
-        "type": "image-with-text",
-        "blocks": {
-          "1662318555c84a2c6a-0": {
-            "type": "heading",
-            "settings": {
-              "heading": "Exotic Pole",
-              "heading_size": "h2"
-            }
-          },
-          "1662318555c84a2c6a-1": {
-            "type": "text",
-            "settings": {
-              "text": "<p>Dança originária da Rússia, com estilo único e extravagante, essa dança trabalha incríveis combos de força, flexibilidade e fluidez em cima de um salto.<\/p>",
-              "text_style": "body"
-            }
-          }
-        },
-        "block_order": [
-          "1662318555c84a2c6a-0",
-          "1662318555c84a2c6a-1"
-        ],
-        "settings": {
-          "image": "shopify:\/\/shop_images\/Eotic_pole2.jpg",
-          "height": "adapt",
-          "desktop_image_width": "small",
-          "layout": "image_first",
-          "desktop_content_position": "top",
-          "desktop_content_alignment": "left",
-          "content_layout": "no-overlap",
-          "color_scheme": "background-1",
-          "mobile_content_alignment": "left",
-          "padding_top": 36,
-          "padding_bottom": 36
-        }
-      },
-      "16623187100aaaf61b": {
-        "type": "image-with-text",
-        "blocks": {
-          "16623187103973427e-0": {
-            "type": "heading",
-            "settings": {
-              "heading": "Pole Sensual",
-              "heading_size": "h2"
-            }
-          },
-          "16623187103973427e-1": {
-            "type": "text",
-            "settings": {
-              "text": "<p>Uma dança para evidenciar toda a sensualidade que já existe dentro de toda mulher. Além da coreografia, as aulas nos ajudam a nos reconectar.<\/p>",
-              "text_style": "body"
-            }
-          }
-        },
-        "block_order": [
-          "16623187103973427e-0",
-          "16623187103973427e-1"
-        ],
-        "settings": {
-          "image": "shopify:\/\/shop_images\/Pole_Sensual_44788e4b-34e1-4839-b4a8-17eec80ac4d1.jpg",
-          "height": "adapt",
-          "desktop_image_width": "small",
-          "layout": "text_first",
-          "desktop_content_position": "top",
-          "desktop_content_alignment": "left",
-          "content_layout": "no-overlap",
-          "color_scheme": "background-1",
-          "mobile_content_alignment": "left",
-          "padding_top": 36,
-          "padding_bottom": 36
-        }
-      },
-      "1662318785faa5815a": {
-        "type": "image-with-text",
-        "blocks": {
-          "16623187851c353962-0": {
-            "type": "heading",
-            "settings": {
-              "heading": "Pole Sport",
-              "heading_size": "h2"
-            }
-          },
-          "16623187851c353962-1": {
-            "type": "text",
-            "settings": {
-              "text": "<p>Aula voltada para a parte acrobática da modalidade, manobras e combos aéreos e de solo. Vertente que traz muito benefício físico como, enrijecimento muscular, força e como todas as outras vertentes, coordenação motora.<\/p>",
-              "text_style": "body"
-            }
-          }
-        },
-        "block_order": [
-          "16623187851c353962-0",
-          "16623187851c353962-1"
-        ],
-        "settings": {
-          "image": "shopify:\/\/shop_images\/Strong_Pole_Sport.jpg",
-          "height": "adapt",
-          "desktop_image_width": "small",
-          "layout": "image_first",
-          "desktop_content_position": "top",
-          "desktop_content_alignment": "left",
-          "content_layout": "no-overlap",
-          "color_scheme": "background-1",
-          "mobile_content_alignment": "left",
-          "padding_top": 36,
-          "padding_bottom": 36
-        }
-      },
-      "1662318800f32a4d71": {
-        "type": "image-with-text",
-        "blocks": {
-          "16623187994a4b7d76-0": {
-            "type": "heading",
-            "settings": {
-              "heading": "Pole Flex Intense",
-              "heading_size": "h2"
-            }
-          },
-          "16623187994a4b7d76-1": {
-            "type": "text",
-            "settings": {
-              "text": "<p> Aula desenvolvida para treinos de alongamento, alinhamento postural e contorção. Trabalho realizado levando em consideração a estrutura corporal e tempo de resposta de cada um<\/p>",
-              "text_style": "body"
-            }
-          }
-        },
-        "block_order": [
-          "16623187994a4b7d76-0",
-          "16623187994a4b7d76-1"
-        ],
-        "settings": {
-          "image": "shopify:\/\/shop_images\/Flexibilidade_e_alongamento.jpg",
-          "height": "adapt",
-          "desktop_image_width": "small",
-          "layout": "text_first",
-          "desktop_content_position": "top",
-          "desktop_content_alignment": "left",
-          "content_layout": "no-overlap",
-          "color_scheme": "background-1",
-          "mobile_content_alignment": "left",
-          "padding_top": 36,
-          "padding_bottom": 36
-        }
-      },
-      "166231881090347891": {
-        "type": "image-with-text",
-        "blocks": {
-          "16623188108edfcf25-0": {
-            "type": "heading",
-            "settings": {
-              "heading": "Pole Dance Root",
-              "heading_size": "h2"
-            }
-          },
-          "16623188108edfcf25-1": {
-            "type": "text",
-            "settings": {
-              "text": "<p>Pole Raiz, aulas que trazem de volta o Pole Dance como começou, sem distinção. Onde tudo era realizado em uma única coreografia, sensualidade, combos, floor e tudo isso com ou sem salto. Uma modalidade livre, para que se possa explorar todas as possibilidades.<\/p>",
-              "text_style": "body"
-            }
-          }
-        },
-        "block_order": [
-          "16623188108edfcf25-0",
-          "16623188108edfcf25-1"
-        ],
-        "settings": {
-          "image": "shopify:\/\/shop_images\/Pole_Root.jpg",
-          "height": "adapt",
-          "desktop_image_width": "small",
-          "layout": "image_first",
-          "desktop_content_position": "top",
-          "desktop_content_alignment": "left",
-          "content_layout": "no-overlap",
-          "color_scheme": "background-1",
-          "mobile_content_alignment": "left",
-          "padding_top": 36,
-          "padding_bottom": 36
-        }
-      },
-      "1662318816635fcf8a": {
-        "type": "image-with-text",
-        "blocks": {
-          "1662318816c09e4f86-0": {
-            "type": "heading",
-            "settings": {
-              "heading": "Strong Pole Sport",
-              "heading_size": "h2"
-            }
-          },
-          "1662318816c09e4f86-1": {
-            "type": "text",
-            "settings": {
-              "text": "<p>Modalidade executada por um profissional da área da saúde onde o treinamento junto com a aula de Pole Sport é uma maneira eficaz de reduzir o estresse do dia-a-dia concentrando-se em metas realizáveis e sua mente permanece positiva e motivada. Os benefícios são muitos, ossos mais fortes, fortalecimento das articulações, redução de lesões entre outros.<\/p>",
-              "text_style": "body"
-            }
-          }
-        },
-        "block_order": [
-          "1662318816c09e4f86-0",
-          "1662318816c09e4f86-1"
-        ],
-        "settings": {
-          "image": "shopify:\/\/shop_images\/Strong_Pole_Sport.jpg",
-          "height": "adapt",
-          "desktop_image_width": "small",
-          "layout": "text_first",
-          "desktop_content_position": "top",
-          "desktop_content_alignment": "left",
-          "content_layout": "no-overlap",
-          "color_scheme": "background-1",
-          "mobile_content_alignment": "left",
-          "padding_top": 36,
-          "padding_bottom": 36
-        }
-      },
-      "1662318829ddea7056": {
-        "type": "image-with-text",
-        "blocks": {
-          "16623188287318012c-0": {
-            "type": "heading",
-            "settings": {
-              "heading": "Tecido Acrobático",
-              "heading_size": "h2"
-            }
-          },
-          "16623188287318012c-1": {
-            "type": "text",
-            "settings": {
-              "text": "<p>Uma modalidade circense onde aprendemos acrobacias incríveis além de ter todo o benefícios como, resistência física, coordenação motora, fortalecimento muscular além de muita diversão.<\/p>",
-              "text_style": "body"
-            }
-          }
-        },
-        "block_order": [
-          "16623188287318012c-0",
-          "16623188287318012c-1"
-        ],
-        "settings": {
-          "image": "shopify:\/\/shop_images\/Tecido_acrobatico.jpg",
-          "height": "adapt",
-          "desktop_image_width": "small",
-          "layout": "image_first",
-          "desktop_content_position": "top",
-          "desktop_content_alignment": "left",
-          "content_layout": "no-overlap",
-          "color_scheme": "background-1",
-          "mobile_content_alignment": "left",
-          "padding_top": 36,
-          "padding_bottom": 36
-        }
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
       }
     },
-    "order": [
-      "main",
-      "16623185554bb1d9bd",
-      "16623187100aaaf61b",
-      "1662318785faa5815a",
-      "1662318800f32a4d71",
-      "166231881090347891",
-      "1662318816635fcf8a",
-      "1662318829ddea7056"
-    ]
-  }
+    "166232159935eb6435": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "cover_image": "shopify:\/\/shop_images\/banner-home-1.jpg",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=vZkrpRCSFI0&ab_channel=JulianaMuniz",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1662321739d7395426": {
+      "type": "image-with-text",
+      "blocks": {
+        "1662321739c4df0aa9-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Juliana Muniz",
+            "heading_size": "h1"
+          }
+        },
+        "1662321739c4df0aa9-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Mussum Ipsum, cacilds vidis litro abertis. Per aumento de cachacis, eu reclamis.Nec orci ornare consequat. Praesent lacinia ultrices consectetur. Sed non ipsum felis.Copo furadis é disculpa de bebadis, arcu quam euismod magna.Em pé sem cair, deitado sem dormir, sentado sem cochilar e fazendo pose.<\/p><p>Cevadis im ampola pa arma uma pindureta.Em pé sem cair, deitado sem dormir, sentado sem cochilar e fazendo pose.Atirei o pau no gatis, per gatis num morreus.Diuretics paradis num copo é motivis de denguis.<\/p><p>In elementis mé pra quem é amistosis quis leo.A ordem dos tratores não altera o pão duris.Admodum accumsan disputationi eu sit. Vide electram sadipscing et per.Tá deprimidis, eu conheço uma cachacis que pode alegrar sua vidis.<\/p><p>Paisis, filhis, espiritis santis.Todo mundo vê os porris que eu tomo, mas ninguém vê os tombis que eu levo!Praesent malesuada urna nisi, quis volutpat erat hendrerit non. Nam vulputate dapibus.Não sou faixa preta cumpadi, sou preto inteiris, inteiris.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "1662321739c4df0aa9-0",
+        "1662321739c4df0aa9-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Exotic_Pole.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "166232189389341d71": {
+      "type": "image-with-text",
+      "blocks": {
+        "166232189303301ef4-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Carreira",
+            "heading_size": "h1"
+          }
+        },
+        "166232189303301ef4-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Mussum Ipsum, cacilds vidis litro abertis. Nec orci ornare consequat. Praesent lacinia ultrices consectetur. Sed non ipsum felis.Admodum accumsan disputationi eu sit. Vide electram sadipscing et per.Atirei o pau no gatis, per gatis num morreus.Mauris nec dolor in eros commodo tempor. Aenean aliquam molestie leo, vitae iaculis nisl.<\/p><p>Suco de cevadiss, é um leite divinis, qui tem lupuliz, matis, aguis e fermentis.Copo furadis é disculpa de bebadis, arcu quam euismod magna.Atirei o pau no gatis, per gatis num morreus.Quem manda na minha terra sou euzis!<\/p><p>Detraxit consequat et quo num tendi nada.Cevadis im ampola pa arma uma pindureta.Delegadis gente finis, bibendum egestas augue arcu ut est.Suco de cevadiss deixa as pessoas mais interessantis.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "166232189303301ef4-0",
+        "166232189303301ef4-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Pole_Sport.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "166232159935eb6435",
+    "1662321739d7395426",
+    "166232189389341d71"
+  ]
+}
