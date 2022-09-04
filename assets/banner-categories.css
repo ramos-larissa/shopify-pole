@@ -22,3 +22,10 @@
 .banner-categories__content img{
     width: 100%;
 }
+
+@media screen and (max-width: 768px) {
+    .banner-categories__container{
+        display: none;
+    }
+}
+    

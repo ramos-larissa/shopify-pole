@@ -2960,7 +2960,10 @@ details-disclosure > details {
     background-color: black;
 }
 
-#shopify-section-template--15845893079229__1662311772236fb2e6 .button--primary{
+.button--primary{
   background-color: #EB7B00;
   color: white;
+}
+.shopify-section{
+  background-color: black;
 }
