@@ -1,7 +1,38 @@
 {
   "sections": {
+    "1662322905e0aba0d6": {
+      "type": "rich-text",
+      "blocks": {
+        "166232290522137abc-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Entre em contato<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "166232290522137abc-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Par dúvidas entre em contato com a gente! <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "166232290522137abc-0",
+        "166232290522137abc-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 36,
         "padding_bottom": 36
@@ -19,6 +50,7 @@
     }
   },
   "order": [
+    "1662322905e0aba0d6",
     "main",
     "form"
   ]
