@@ -1,0 +1,274 @@
+{
+    "sections": {
+      "main": {
+        "type": "main-page",
+        "disabled": true,
+        "settings": {
+          "padding_top": 28,
+          "padding_bottom": 28
+        }
+      },
+      "16623185554bb1d9bd": {
+        "type": "image-with-text",
+        "blocks": {
+          "1662318555c84a2c6a-0": {
+            "type": "heading",
+            "settings": {
+              "heading": "Exotic Pole",
+              "heading_size": "h2"
+            }
+          },
+          "1662318555c84a2c6a-1": {
+            "type": "text",
+            "settings": {
+              "text": "<p>Dança originária da Rússia, com estilo único e extravagante, essa dança trabalha incríveis combos de força, flexibilidade e fluidez em cima de um salto.<\/p>",
+              "text_style": "body"
+            }
+          }
+        },
+        "block_order": [
+          "1662318555c84a2c6a-0",
+          "1662318555c84a2c6a-1"
+        ],
+        "settings": {
+          "image": "shopify:\/\/shop_images\/Eotic_pole2.jpg",
+          "height": "adapt",
+          "desktop_image_width": "small",
+          "layout": "image_first",
+          "desktop_content_position": "top",
+          "desktop_content_alignment": "left",
+          "content_layout": "no-overlap",
+          "color_scheme": "background-1",
+          "mobile_content_alignment": "left",
+          "padding_top": 36,
+          "padding_bottom": 36
+        }
+      },
+      "16623187100aaaf61b": {
+        "type": "image-with-text",
+        "blocks": {
+          "16623187103973427e-0": {
+            "type": "heading",
+            "settings": {
+              "heading": "Pole Sensual",
+              "heading_size": "h2"
+            }
+          },
+          "16623187103973427e-1": {
+            "type": "text",
+            "settings": {
+              "text": "<p>Uma dança para evidenciar toda a sensualidade que já existe dentro de toda mulher. Além da coreografia, as aulas nos ajudam a nos reconectar.<\/p>",
+              "text_style": "body"
+            }
+          }
+        },
+        "block_order": [
+          "16623187103973427e-0",
+          "16623187103973427e-1"
+        ],
+        "settings": {
+          "image": "shopify:\/\/shop_images\/Pole_Sensual_44788e4b-34e1-4839-b4a8-17eec80ac4d1.jpg",
+          "height": "adapt",
+          "desktop_image_width": "small",
+          "layout": "text_first",
+          "desktop_content_position": "top",
+          "desktop_content_alignment": "left",
+          "content_layout": "no-overlap",
+          "color_scheme": "background-1",
+          "mobile_content_alignment": "left",
+          "padding_top": 36,
+          "padding_bottom": 36
+        }
+      },
+      "1662318785faa5815a": {
+        "type": "image-with-text",
+        "blocks": {
+          "16623187851c353962-0": {
+            "type": "heading",
+            "settings": {
+              "heading": "Pole Sport",
+              "heading_size": "h2"
+            }
+          },
+          "16623187851c353962-1": {
+            "type": "text",
+            "settings": {
+              "text": "<p>Aula voltada para a parte acrobática da modalidade, manobras e combos aéreos e de solo. Vertente que traz muito benefício físico como, enrijecimento muscular, força e como todas as outras vertentes, coordenação motora.<\/p>",
+              "text_style": "body"
+            }
+          }
+        },
+        "block_order": [
+          "16623187851c353962-0",
+          "16623187851c353962-1"
+        ],
+        "settings": {
+          "image": "shopify:\/\/shop_images\/Strong_Pole_Sport.jpg",
+          "height": "adapt",
+          "desktop_image_width": "small",
+          "layout": "image_first",
+          "desktop_content_position": "top",
+          "desktop_content_alignment": "left",
+          "content_layout": "no-overlap",
+          "color_scheme": "background-1",
+          "mobile_content_alignment": "left",
+          "padding_top": 36,
+          "padding_bottom": 36
+        }
+      },
+      "1662318800f32a4d71": {
+        "type": "image-with-text",
+        "blocks": {
+          "16623187994a4b7d76-0": {
+            "type": "heading",
+            "settings": {
+              "heading": "Pole Flex Intense",
+              "heading_size": "h2"
+            }
+          },
+          "16623187994a4b7d76-1": {
+            "type": "text",
+            "settings": {
+              "text": "<p> Aula desenvolvida para treinos de alongamento, alinhamento postural e contorção. Trabalho realizado levando em consideração a estrutura corporal e tempo de resposta de cada um<\/p>",
+              "text_style": "body"
+            }
+          }
+        },
+        "block_order": [
+          "16623187994a4b7d76-0",
+          "16623187994a4b7d76-1"
+        ],
+        "settings": {
+          "image": "shopify:\/\/shop_images\/Flexibilidade_e_alongamento.jpg",
+          "height": "adapt",
+          "desktop_image_width": "small",
+          "layout": "text_first",
+          "desktop_content_position": "top",
+          "desktop_content_alignment": "left",
+          "content_layout": "no-overlap",
+          "color_scheme": "background-1",
+          "mobile_content_alignment": "left",
+          "padding_top": 36,
+          "padding_bottom": 36
+        }
+      },
+      "166231881090347891": {
+        "type": "image-with-text",
+        "blocks": {
+          "16623188108edfcf25-0": {
+            "type": "heading",
+            "settings": {
+              "heading": "Pole Dance Root",
+              "heading_size": "h2"
+            }
+          },
+          "16623188108edfcf25-1": {
+            "type": "text",
+            "settings": {
+              "text": "<p>Pole Raiz, aulas que trazem de volta o Pole Dance como começou, sem distinção. Onde tudo era realizado em uma única coreografia, sensualidade, combos, floor e tudo isso com ou sem salto. Uma modalidade livre, para que se possa explorar todas as possibilidades.<\/p>",
+              "text_style": "body"
+            }
+          }
+        },
+        "block_order": [
+          "16623188108edfcf25-0",
+          "16623188108edfcf25-1"
+        ],
+        "settings": {
+          "image": "shopify:\/\/shop_images\/Pole_Root.jpg",
+          "height": "adapt",
+          "desktop_image_width": "small",
+          "layout": "image_first",
+          "desktop_content_position": "top",
+          "desktop_content_alignment": "left",
+          "content_layout": "no-overlap",
+          "color_scheme": "background-1",
+          "mobile_content_alignment": "left",
+          "padding_top": 36,
+          "padding_bottom": 36
+        }
+      },
+      "1662318816635fcf8a": {
+        "type": "image-with-text",
+        "blocks": {
+          "1662318816c09e4f86-0": {
+            "type": "heading",
+            "settings": {
+              "heading": "Strong Pole Sport",
+              "heading_size": "h2"
+            }
+          },
+          "1662318816c09e4f86-1": {
+            "type": "text",
+            "settings": {
+              "text": "<p>Modalidade executada por um profissional da área da saúde onde o treinamento junto com a aula de Pole Sport é uma maneira eficaz de reduzir o estresse do dia-a-dia concentrando-se em metas realizáveis e sua mente permanece positiva e motivada. Os benefícios são muitos, ossos mais fortes, fortalecimento das articulações, redução de lesões entre outros.<\/p>",
+              "text_style": "body"
+            }
+          }
+        },
+        "block_order": [
+          "1662318816c09e4f86-0",
+          "1662318816c09e4f86-1"
+        ],
+        "settings": {
+          "image": "shopify:\/\/shop_images\/Strong_Pole_Sport.jpg",
+          "height": "adapt",
+          "desktop_image_width": "small",
+          "layout": "text_first",
+          "desktop_content_position": "top",
+          "desktop_content_alignment": "left",
+          "content_layout": "no-overlap",
+          "color_scheme": "background-1",
+          "mobile_content_alignment": "left",
+          "padding_top": 36,
+          "padding_bottom": 36
+        }
+      },
+      "1662318829ddea7056": {
+        "type": "image-with-text",
+        "blocks": {
+          "16623188287318012c-0": {
+            "type": "heading",
+            "settings": {
+              "heading": "Tecido Acrobático",
+              "heading_size": "h2"
+            }
+          },
+          "16623188287318012c-1": {
+            "type": "text",
+            "settings": {
+              "text": "<p>Uma modalidade circense onde aprendemos acrobacias incríveis além de ter todo o benefícios como, resistência física, coordenação motora, fortalecimento muscular além de muita diversão.<\/p>",
+              "text_style": "body"
+            }
+          }
+        },
+        "block_order": [
+          "16623188287318012c-0",
+          "16623188287318012c-1"
+        ],
+        "settings": {
+          "image": "shopify:\/\/shop_images\/Tecido_acrobatico.jpg",
+          "height": "adapt",
+          "desktop_image_width": "small",
+          "layout": "image_first",
+          "desktop_content_position": "top",
+          "desktop_content_alignment": "left",
+          "content_layout": "no-overlap",
+          "color_scheme": "background-1",
+          "mobile_content_alignment": "left",
+          "padding_top": 36,
+          "padding_bottom": 36
+        }
+      }
+    },
+    "order": [
+      "main",
+      "16623185554bb1d9bd",
+      "16623187100aaaf61b",
+      "1662318785faa5815a",
+      "1662318800f32a4d71",
+      "166231881090347891",
+      "1662318816635fcf8a",
+      "1662318829ddea7056"
+    ]
+  }
