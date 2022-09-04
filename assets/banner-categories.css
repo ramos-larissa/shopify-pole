@@ -1,0 +1,24 @@
+.banner-categories__container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    margin: 0;
+    padding: 0;
+}
+
+.banner-categories__content span{
+    margin-left: .625rem;
+    margin-top: .625rem;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: bolder;
+    color: #EB7B00;
+}
+
+.banner-categories__content{
+    background-color: black;
+    text-align: center;
+}
+
+.banner-categories__content img{
+    width: 100%;
+}

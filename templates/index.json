@@ -3,26 +3,224 @@
     "image_banner": {
       "type": "image-banner",
       "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image banner",
-            "heading_size": "h0"
-          }
-        },
         "text": {
           "type": "text",
           "settings": {
             "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
+            "text_style": "caption-with-letter-spacing"
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop all",
-            "button_link_1": "shopify://collections/all",
+            "button_label_1": "Saiba mais",
+            "button_link_1": "shopify:\/\/collections\/all",
             "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "text",
+        "button"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/banner-home-1.jpg",
+        "image_overlay_opacity": 40,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "bottom-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "banner_categories": {
+      "type": "banner-home-categories",
+      "blocks": {
+        "04ccbe9b-94aa-470c-9f9e-d653b65a1814": {
+          "type": "BannerCategories",
+          "settings": {
+            "text_title": "Pole Dance Root",
+            "image_category": "shopify:\/\/shop_images\/Pole_Root2.jpg"
+          }
+        },
+        "5ecfbd15-9acc-47ba-ab15-dfbdf1a9dffb": {
+          "type": "BannerCategories",
+          "settings": {
+            "text_title": "Exotic Pole",
+            "image_category": "shopify:\/\/shop_images\/Eotic_pole2.jpg"
+          }
+        },
+        "1a89b549-a31f-4fa8-bac0-30d895f630aa": {
+          "type": "BannerCategories",
+          "settings": {
+            "text_title": "Pole Sensual",
+            "image_category": "shopify:\/\/shop_images\/Pole_Sensual_44788e4b-34e1-4839-b4a8-17eec80ac4d1.jpg"
+          }
+        },
+        "dd0117d0-e4e7-49b1-879e-2ea16e4b7524": {
+          "type": "BannerCategories",
+          "settings": {
+            "text_title": "Pole Sport",
+            "image_category": "shopify:\/\/shop_images\/Pole_Sport2.jpg"
+          }
+        },
+        "edd6ef3b-a9b3-4b5f-8391-a1d13fb2bc9d": {
+          "type": "BannerCategories",
+          "settings": {
+            "text_title": "Pole Flex Intense",
+            "image_category": "shopify:\/\/shop_images\/Flexibilidade_e_alongamento.jpg"
+          }
+        },
+        "8d050dc8-9fba-47ea-977a-029398d846cc": {
+          "type": "BannerCategories",
+          "settings": {
+            "text_title": "Strong Pole Sport",
+            "image_category": "shopify:\/\/shop_images\/Strong_Pole_Sport.jpg"
+          }
+        },
+        "84497b69-03e1-495d-8a1c-f56bffe39743": {
+          "type": "BannerCategories",
+          "settings": {
+            "text_title": "Tecido Acrobático",
+            "image_category": "shopify:\/\/shop_images\/Tecido_acrobatico.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "04ccbe9b-94aa-470c-9f9e-d653b65a1814",
+        "5ecfbd15-9acc-47ba-ab15-dfbdf1a9dffb",
+        "1a89b549-a31f-4fa8-bac0-30d895f630aa",
+        "dd0117d0-e4e7-49b1-879e-2ea16e4b7524",
+        "edd6ef3b-a9b3-4b5f-8391-a1d13fb2bc9d",
+        "8d050dc8-9fba-47ea-977a-029398d846cc",
+        "84497b69-03e1-495d-8a1c-f56bffe39743"
+      ],
+      "settings": {
+      }
+    },
+    "1662311772236fb2e6": {
+      "type": "image-with-text",
+      "blocks": {
+        "1662311772cd7b6afa-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Downtown",
+            "heading_size": "h1"
+          }
+        },
+        "1662311772cd7b6afa-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>O que você nunca ousou sonhar, nós iremos transcender.<br\/><em><strong>Vem experimentar ser você mesma.<\/strong><\/em><\/p>",
+            "text_style": "body"
+          }
+        },
+        "1662311772cd7b6afa-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Saiba Mais",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1662311772cd7b6afa-0",
+        "1662311772cd7b6afa-1",
+        "1662311772cd7b6afa-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/WhatsApp_Image_2022-06-03_at_20.57.59_1.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "right",
+        "content_layout": "no-overlap",
+        "color_scheme": "accent-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
+    },
+    "1662307859fd8a7edf": {
+      "type": "image-banner",
+      "disabled": true,
+      "blocks": {
+        "1662307859ae9c9d81-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "1662307859ae9c9d81-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "1662307859ae9c9d81-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Saiba Mais",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1662307859ae9c9d81-0",
+        "1662307859ae9c9d81-1",
+        "1662307859ae9c9d81-2"
+      ],
+      "settings": {
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "accent-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "rich_text": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Talk about your brand<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "bb303ac2-3211-487a-9b9b-89656bf411d5": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
@@ -32,44 +230,12 @@
       "block_order": [
         "heading",
         "text",
-        "button"
+        "bb303ac2-3211-487a-9b9b-89656bf411d5"
       ],
       "settings": {
-        "image_overlay_opacity": 40,
-        "image_height": "large",
-        "adapt_height_first_image": false,
-        "desktop_content_position": "bottom-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
-      }
-    },
-    "rich_text": {
-      "type": "rich-text",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Talk about your brand</p>",
-            "heading_size": "h1"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "text"
-      ],
-      "settings": {
-        "color_scheme": "background-1",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 0
@@ -77,26 +243,35 @@
     },
     "featured_collection": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Featured products",
         "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
         "collection": "all",
         "products_to_show": 8,
         "columns_desktop": 4,
-        "color_scheme": "background-1",
+        "full_width": false,
         "show_view_all": false,
-        "swipe_on_mobile": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
         "image_ratio": "adapt",
         "show_secondary_image": true,
         "show_vendor": false,
         "show_rating": false,
+        "enable_quick_add": false,
         "columns_mobile": "2",
+        "swipe_on_mobile": false,
         "padding_top": 28,
         "padding_bottom": 36
       }
     },
     "collage": {
       "type": "collage",
+      "disabled": true,
       "blocks": {
         "collection-0": {
           "type": "collection",
@@ -128,19 +303,7 @@
         "heading_size": "h2",
         "desktop_layout": "left",
         "mobile_layout": "collage",
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "video": {
-      "type": "video",
-      "settings": {
-        "heading": "",
-        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "heading_size": "h1",
-        "description": "",
-        "full_width": false,
+        "card_styles": "product-card-wrapper",
         "color_scheme": "background-1",
         "padding_top": 36,
         "padding_bottom": 36
@@ -148,13 +311,14 @@
     },
     "multicolumn": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "column1": {
           "type": "column",
           "settings": {
             "title": "Column",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
+            "link_label": "Comprar",
             "link": ""
           }
         },
@@ -163,7 +327,7 @@
           "settings": {
             "title": "Column",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
+            "link_label": "Comprar",
             "link": ""
           }
         },
@@ -172,7 +336,7 @@
           "settings": {
             "title": "Column",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
+            "link_label": "Comprar",
             "link": ""
           }
         }
@@ -192,9 +356,9 @@
         "background_style": "none",
         "button_label": "",
         "button_link": "",
-        "swipe_on_mobile": false,
         "color_scheme": "background-1",
         "columns_mobile": "1",
+        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -202,10 +366,12 @@
   },
   "order": [
     "image_banner",
+    "banner_categories",
+    "1662311772236fb2e6",
+    "1662307859fd8a7edf",
     "rich_text",
     "featured_collection",
     "collage",
-    "video",
     "multicolumn"
   ]
 }

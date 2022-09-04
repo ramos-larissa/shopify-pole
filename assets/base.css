@@ -2177,6 +2177,7 @@ input[type='checkbox'] {
 }
 
 .announcement-bar {
+  background: #EB7B00 !important;
   border-bottom: 0.1rem solid rgba(var(--color-foreground), 0.08);
   color: rgb(var(--color-foreground));
 }
@@ -2953,4 +2954,13 @@ details-disclosure > details {
   .localization-form__select:focus {
     outline: transparent solid 1px;
   }
+}
+
+#shopify-section-template--15845893079229__1662311772236fb2e6{
+    background-color: black;
+}
+
+#shopify-section-template--15845893079229__1662311772236fb2e6 .button--primary{
+  background-color: #EB7B00;
+  color: white;
 }

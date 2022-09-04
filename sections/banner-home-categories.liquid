@@ -1,0 +1,44 @@
+{{ 'banner-categories.css' | asset_url | stylesheet_tag }}
+
+<section>
+    <a style="text-decoration: none" href="google.com">
+    <div class="banner-categories__container">
+        {% for block in section.blocks %}
+            <div class="banner-categories__content">
+                {%- if block.settings.text_title != blank -%}
+                    <span>{{ block.settings.text_title }}</span>
+                {%- endif -%}
+                {%- if block.settings.image_category != blank -%}
+                    <img src="{{ block.settings.image_category | img_url: 'large' }}" alt="{{ block.settings.text_title }}">
+                {%- endif -%}
+            </div>
+        {% endfor %}
+    </div>
+</a>
+</section>
+
+{% schema %}
+{
+  "name": "banner categories",
+  "tag": "section",
+  "settings": [],
+  "blocks": [
+    {
+      "type": "BannerCategories",
+      "name": "t:sections.image-banner.blocks.text.name",
+      "settings": [
+        {
+          "type": "text",
+          "id": "text_title",
+          "label": "t:sections.image-banner.blocks.text.settings.text.label"
+        },
+        {
+            "type": "image_picker",
+            "id": "image_category",
+            "label": "t:sections.image-banner.settings.image.label"
+          }
+      ]
+    }
+  ]
+}
+{% endschema %}
